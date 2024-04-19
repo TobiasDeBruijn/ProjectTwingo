@@ -487,6 +487,10 @@
     [
       "7e6b7ef7-bd1e-41c9-940e-1581ef719381",
       "12 to 5V"
+    ],
+    [
+      "9f34b45c-ffff-4958-9323-e0ada23d6a1d",
+      "12V to 3.3V"
     ]
   ],
   "text_variables": {}
